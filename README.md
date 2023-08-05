@@ -1,1 +1,1 @@
-# streetview-vr-walker
+# StreetviewVR Walker
